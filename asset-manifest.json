@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/golf-booking/static/css/main.58ca361d.chunk.css",
+    "main.js": "/golf-booking/static/js/main.afec3b26.chunk.js",
+    "main.js.map": "/golf-booking/static/js/main.afec3b26.chunk.js.map",
+    "runtime-main.js": "/golf-booking/static/js/runtime-main.2635ffd9.js",
+    "runtime-main.js.map": "/golf-booking/static/js/runtime-main.2635ffd9.js.map",
+    "static/css/2.71b9f189.chunk.css": "/golf-booking/static/css/2.71b9f189.chunk.css",
+    "static/js/2.c6688d5e.chunk.js": "/golf-booking/static/js/2.c6688d5e.chunk.js",
+    "static/js/2.c6688d5e.chunk.js.map": "/golf-booking/static/js/2.c6688d5e.chunk.js.map",
+    "static/js/3.f9e7d785.chunk.js": "/golf-booking/static/js/3.f9e7d785.chunk.js",
+    "static/js/3.f9e7d785.chunk.js.map": "/golf-booking/static/js/3.f9e7d785.chunk.js.map",
+    "index.html": "/golf-booking/index.html",
+    "static/css/2.71b9f189.chunk.css.map": "/golf-booking/static/css/2.71b9f189.chunk.css.map",
+    "static/css/main.58ca361d.chunk.css.map": "/golf-booking/static/css/main.58ca361d.chunk.css.map",
+    "static/js/2.c6688d5e.chunk.js.LICENSE.txt": "/golf-booking/static/js/2.c6688d5e.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/golf-booking/static/media/UploadIcon.469126df.svg",
+    "static/media/logo.6ce24c58.svg": "/golf-booking/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2635ffd9.js",
+    "static/css/2.71b9f189.chunk.css",
+    "static/js/2.c6688d5e.chunk.js",
+    "static/css/main.58ca361d.chunk.css",
+    "static/js/main.afec3b26.chunk.js"
+  ]
+}
